@@ -39,8 +39,8 @@ let prjectsDB = [
   {
     id:4,
     name: "OnlineShop",
-    img: 'OnlineShop11.PNG',
-    imgs: ['OnlineShop11.PNG','OnlineShop2.PNG','OnlineShop3.PNG','OnlineShop4.PNG','OnlineShop5.PNG','OnlineShop6.PNG'],
+    img: 'OnlineShop11.png',
+    imgs: ['OnlineShop11.png','OnlineShop2.png','OnlineShop3.png','OnlineShop4.png','OnlineShop5.png','OnlineShop6.png'],
     tools:["React.JS",  "Bootstrap","FackApi",'Axios',"html",  "css"],
     desc:"An example for use Fake API with vueJs",
     gith: 'http://github.com/Maha4Gaber/OnlineShop',
@@ -73,8 +73,8 @@ let prjectsDB = [
   {
     id:7,
     name: "Todo List",
-    img: 'todo4.PNG',
-    imgs: ['todo1.PNG','todo2.PNG','todo3.PNG','todo4.PNG'],
+    img: 'todo4.png',
+    imgs: ['todo1.png','todo2.png','todo3.png','todo4.png'],
     tools:["html",  "css","vueJs"],
     desc:"An example for crud system with vueJs",
     video: "todo",
