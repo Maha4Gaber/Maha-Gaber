@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,900&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Farsan&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,900&family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Farsan&family=Lobster&family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&family=Montserrat:ital,wght@0,400;0,500;0,600;1,400;1,900&family=Poppins:ital,wght@0,200;0,300;0,400;1,200;1,300&family=Sedgwick+Ave&display=swap');
 
 :root {
   --border: 1px solid rgba(10, 216, 231, 0.404);
@@ -22,7 +24,9 @@ body {
   background-size: cover;
    background-attachment: fixed; 
   color: aliceblue !important;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Farsan', cursive;
+  font-family: 'Sedgwick Ave', cursive;
+  font-family: Poppins, sans-serif;
 }
 @media (max-width:767px) {
   body {
@@ -345,7 +349,7 @@ nav ul li a{
       font-size: 50px;
   }
   .home .left .name p{
-      font-size: 13px;
+      font-size: 16px;
 
   }
   .home .left .name h5
@@ -388,7 +392,7 @@ margin-top: 8%;
   width: 100%;
   /* padding-right:10px; */
   letter-spacing: 2px;
-  font-size: 15px;
+  font-size: 16px;
   color: var(--dark-color);
 }
 .home .left .links{
