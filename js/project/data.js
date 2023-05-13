@@ -3,7 +3,7 @@ let prjectsDB = [
     id:1,
     name: "Pato Resturant",
     img: 'pato1.png',
-    imgs: ['pato1.png','pato2.png','pato3.png','pato6.PNG','pato5.png','pato4.PNG'],
+    imgs: ['pato1.PNG','pato2.png','pato3.png','pato6.PNG','pato5.png','pato4.PNG'],
     tools:['Vuejs','Vuex','Json Server','Bootstrapt','Axios','Validation'],
     desc: `A website that display the restaurants products to you ,informational 
     abut restaurant,people's opinions,each product separately you can leave comments,you can make an order for any product if
