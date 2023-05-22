@@ -254,6 +254,7 @@ nav .logo a:hover{
     color: var(--sec-color);
   }
 
+
 nav  ul 
 {
   justify-content: space-evenly;
@@ -269,6 +270,12 @@ nav ul li a{
   font-size: 20px;
 }
 
+nav.media ul li a
+{
+  padding: 8px 5px;
+  margin: 0 5px 0;
+  font-size: 22px;
+}
 nav ul  li a:hover,
 nav ul  li a.active
 {
@@ -346,10 +353,11 @@ nav ul li a{
   }
   .home .left .name h1{
 
-      font-size: 50px;
+    margin-top: 50px;
+      font-size: 40px;
   }
-  .home .left .name p{
-      font-size: 16px;
+  .home .left  p{
+      font-size: 13px !important;
 
   }
   .home .left .name h5
@@ -385,7 +393,7 @@ margin-top: 8%;
   font-family: 'Lobster Two', cursive;
   margin: 0 0 20px 0;
   color: var(--sec-color);
-  font-size: 7em;
+  font-size: 5em;
   font-weight: 600;
 }
 .home .left p{

@@ -55,7 +55,7 @@ let prjectsDB = [
     imgs: ['ultra1.PNG','ultra2.PNG','ultra3.PNG','ultra4.PNG','ultra5.PNG','ultra6.PNG'],
     tools:["React.JS",  "Bootstrap","Json server","html",  "css"],
     desc:"Simple app on React JS",
-    gith: 'http://github.com/Maha4Gaber/React_Project_1',
+    gith: 'http://github.com/Maha4Gaber/Pato',
     video: "ultra",
     filter:"react"
   },
